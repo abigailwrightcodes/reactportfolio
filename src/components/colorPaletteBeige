@@ -1,0 +1,7 @@
+:root {
+     --darkest-color: #000000;
+    --mid-color-brown: #8B655B;
+    --mid-color-pink: #cbb0b0;
+    --light-color: #E8CEB0 ;
+    --white-color: #FFFFFF ;
+}

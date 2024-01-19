@@ -1,0 +1,88 @@
+@import url('https://fonts.cdnfonts.com/css/glacial-indifference-2');
+
+body {
+
+  font-family: 'Glacial Indifference', sans-serif;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font-size: 10px;
+                                                
+
+}
+
+
+
+:root {
+    
+  --dark-color: #000000;
+  --green-bright: #64FF6F;
+  --pink-bright: #FF09C1 ;
+  --orange-accent: #F96263 ;
+  --purple-accent: #6300FF ;
+
+  }   
+
+
+.nav-out {
+  background-color: #000000;
+  text-align: center;
+}
+
+.navbar-brand {
+  text-align: center;
+  color: var(--pink-bright);
+ 
+   
+}
+
+.navbar-main{
+    margin: 10px;
+    background-color: var(--dark-color);
+    border: #FF09C1 3px solid;
+    text-decoration: none;
+    height: 50px;
+    text-align: center;
+    
+}
+
+
+  .navbarNone {
+    text-decoration: none;
+    color: var(--pink-bright);
+    text-align: center;
+  }
+
+
+  .nav-item .navbarNone  {
+    height: 4px;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+   
+   
+  }
+
+
+.activeNavItem {
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: var(--dark-color); 
+    font-weight: bold;
+    background-color: var(--green-bright);
+    font-size: 10px;
+   
+}
+
+
+
+  .navbar {
+    text-align: center;
+
+    z-index: 1000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }

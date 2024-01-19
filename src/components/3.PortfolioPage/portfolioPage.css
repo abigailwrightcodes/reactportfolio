@@ -1,0 +1,47 @@
+.portfolioCardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    position: relative;
+    margin-top: 20;
+}
+
+.portfolioCardGridRow {
+    margin-top: 50px;
+
+    padding: 20px;
+   
+}
+
+.portfolioCardGridCol {
+    padding: 20px;
+} 
+
+
+.container {
+    margin-top: 0;
+}
+
+.modalBody {
+    background-color: var(--pink-bright);
+}
+
+.portfolio-more-button {
+  
+    background-color: var(--pink-bright);
+
+}
+.portfolio-more-button:hover {
+    background-color: var(--green-bright);
+    border: none;
+}
+
+
+@media (max-width: 576px) {
+    .portfolioCardContainer {
+        
+        background-color: pink;
+    }
+
+}

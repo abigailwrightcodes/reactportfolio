@@ -1,0 +1,49 @@
+body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.home-jumbo {
+    background-color: var(--dark-color);
+
+    
+
+}
+
+.logoContainer {
+   padding-top: 75px;
+   padding-left: 60px;
+   left: 0;
+ 
+}
+
+.logoImg {
+    margin-top: 5%;
+    z-index: 3000;
+     position: absolute;
+    height: 250px;
+}
+
+.container {
+    background-color: var(--purple-accent);
+    padding-top: 10%;
+  padding-bottom: 10%;
+    width: 70%;
+    justify-content: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 20px;
+    height: 90%;
+   
+}
+
+
+.jumbo-main-txt {
+    margin-left: 50px;
+}
+
+.lead {
+    margin-left: 50px;
+}

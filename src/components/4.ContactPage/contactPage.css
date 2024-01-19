@@ -1,0 +1,11 @@
+body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.contact-page-container {
+            background-color: black;
+        padding-top: 356px;
+        height: 100vh;
+}
