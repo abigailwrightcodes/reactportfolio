@@ -10,6 +10,7 @@ function HomeJumbotron() {
     <div className="jumbotron jumbotron-fluid home-jumbo vh-100">
       <div className="logoContainer">
         <img className="logoImg" src="src/components/images/logo-main.png"/>
+        
       </div>
       <div className="container">
         <h1 className="display-4 jumbo-main-txt">Welcome to Abigail Wright Codes</h1>
