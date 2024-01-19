@@ -9,7 +9,7 @@ function HomeJumbotron() {
   return (
     <div className="jumbotron jumbotron-fluid home-jumbo vh-100">
       <div className="logoContainer">
-        <img className="logoImg" src="/components/images/logo-main.png"/>
+        <img className="logoImg" src="./images/logo-main.png"/>
         
         
       </div>

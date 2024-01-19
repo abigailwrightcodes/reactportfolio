@@ -4,7 +4,7 @@ import './contactPage.css';
 
 function Contactpage() {
 
-  const pdfUrl = './src/components/images/Abigail-Wright-CV-Test.pdf';
+  const pdfUrl = './images/Abigail-Wright-CV-Test.pdf';
 
   return (
     <div className="contact-page-container">
