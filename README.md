@@ -17,6 +17,9 @@ Includes navigation using react router
 
 ![Screenshot (31)](https://github.com/abigailwrightcodes/reactportfolio/assets/145798354/5c18017c-1ea6-4a21-b270-36776fb0bd04)
 
+Current CV (Work in Progress)
+![Screenshot (33)](https://github.com/abigailwrightcodes/reactportfolio/assets/145798354/00a129f0-cee7-46ff-ad11-27d71e70aaa9)
+
 
 # Link to deployed site 
 
